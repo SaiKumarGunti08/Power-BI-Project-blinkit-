@@ -1,6 +1,6 @@
 # Blinkit Data Analysis with Power BI
 
-![Blinkit Logo]()
+![Blinkit Logo](https://github.com/SaiKumarGunti08/Power-BI-Project-blinkit-/blob/main/blinkit%20image.jpg)
 
 ## Overview
 This project analyzes Blinkit sales data using Power BI, covering sales performance, customer ratings, product attributes, and outlet characteristics.
