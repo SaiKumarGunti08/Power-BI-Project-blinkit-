@@ -33,7 +33,4 @@ This project analyzes Blinkit sales data using Power BI, covering sales performa
 ![DashBoard Screen Short](https://github.com/SaiKumarGunti08/Power-BI-Project-blinkit-/blob/main/Screenshot%202024-12-07%20143021.png)
 
 ## Summary
-This analysis helps stakeholders make data-driven decisions for optimizing operations and enhancing customer satisfaction.
-
-## Future Work
-- Add predictive analytics and geospatial mapping for deeper insights.
+This analysis helps stakeholders make data-driven decisions for optimizing operations,enhancing customer satisfaction,Add predictive analytics and geospatial mapping for deeper insights.
