@@ -1,4 +1,4 @@
-# Blinkit Exploratory Data Analysis with Power BI
+# Blinkit Exploratory Data Analysis Using Power BI
 
 ![Blinkit Logo](https://github.com/SaiKumarGunti08/Power-BI-Project-blinkit-/blob/main/blinkit%20image.jpg)
 
