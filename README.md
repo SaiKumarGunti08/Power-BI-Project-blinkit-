@@ -28,7 +28,7 @@ This project analyzes Blinkit sales data using Power BI, covering sales performa
 - Dataset: Blinkit_Sales_Data.csv
 - Dashboard: blinkit_project.pbix
 - Documentation: BlinkIT 20Grocery 20Data.xlsx
-- Screenshots of the dashboard.
+![DashBoard Screen Short](https://github.com/SaiKumarGunti08/Power-BI-Project-blinkit-/blob/main/Screenshot%202024-12-07%20143021.png)
 
 ## Summary
 This analysis helps stakeholders make data-driven decisions for optimizing operations and enhancing customer satisfaction.
