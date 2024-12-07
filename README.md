@@ -1,4 +1,4 @@
-# Blinkit Data Analysis with Power BI
+# Blinkit Exploratory Data Analysis with Power BI
 
 ![Blinkit Logo](https://github.com/SaiKumarGunti08/Power-BI-Project-blinkit-/blob/main/blinkit%20image.jpg)
 
@@ -30,7 +30,7 @@ This project analyzes Blinkit sales data using Power BI, covering sales performa
 - Dataset: Blinkit_Sales_Data.csv
 - Dashboard: blinkit_project.pbix
 - Documentation: BlinkIT Grocery Data.xlsx
-![DashBoard Screen Short](https://github.com/SaiKumarGunti08/Power-BI-Project-blinkit-/blob/main/Screenshot%202024-12-07%20143021.png)
+![DashBoard ScreenShort](https://github.com/SaiKumarGunti08/Power-BI-Project-blinkit-/blob/main/Screenshot%202024-12-07%20143021.png)
 
 ## Summary
 This analysis helps stakeholders make data-driven decisions for optimizing operations,enhancing customer satisfaction,Add predictive analytics and geospatial mapping for deeper insights.
