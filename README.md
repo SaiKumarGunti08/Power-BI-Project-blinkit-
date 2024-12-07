@@ -21,12 +21,12 @@ This project analyzes Blinkit sales data using Power BI, covering sales performa
 
 ## How to Use
 1. Download the files.
-2. Open the .pbix file in Power BI.
+2. Open the blinkit_project.pbix file in Power BI.
 3. Explore insights using the interactive dashboard.
 
 ## Files
 - Dataset: Blinkit_Sales_Data.csv
-- Dashboard: Blinkit_Sales_Analysis.pbix
+- Dashboard: blinkit_project.pbix
 - Documentation: Project_Report.pdf
 - Screenshots of the dashboard.
 
